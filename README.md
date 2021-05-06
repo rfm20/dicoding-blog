@@ -1,6 +1,6 @@
 # Kelas Menjadi Front-End Web Developer Expert
 
-??/??/21 - commit-01 - Mengatur Viewport, Penggunaan Relative Unit, Ukuran Elemen
+--/--/21 - commit-01 - Mengatur Viewport, Penggunaan Relative Unit, Ukuran Elemen
 
 06/05/21 - commit-02 - Menerapkan Responsive Layout
 
